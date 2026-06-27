@@ -18,3 +18,7 @@ Welcome to my Data Analytics portfolio.
 
 ## Goals
 I am learning Data Analytics and building projects to improve my skills.
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-name
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourname)
