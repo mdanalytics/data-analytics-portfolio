@@ -32,10 +32,38 @@ End-to-end customer churn analysis project using MySQL for data cleaning, SQL an
 🔗 [View Customer Churn Analysis Project]([CUSTOMER_CHURN_GITHUB_LINK](https://github.com/mdanalytics/customer-churn-analysis.git)
 
 
-### 2. Sales Dashboard Analysis
 
-Sales analysis and dashboard project.
 
+### 2. Sales Performance Dashboard — Power BI
+
+An interactive Sales Performance Dashboard created using Power BI with the Superstore Sales dataset. The project analyzes sales, profit, customers, products, regions, categories, and business performance.
+
+**Key Areas:**
+- Sales and profit analysis
+- Business KPI tracking
+- Regional performance analysis
+- Category and sub-category analysis
+- Customer segment analysis
+- Top customers and products
+- Monthly sales trends
+- Interactive dashboard filtering
+
+**Tools:** Power BI, Power Query, DAX, Microsoft Excel
+
+🔗 [View Sales Performance Dashboard](https://github.com/mdanalytics/Sales-Performance-Dashboard)
+
+
+### 3. Customer Data Analysis
+
+Customer data analysis project focused on understanding customer information and identifying useful business patterns.
+
+### 4. SQL Query Projects
+
+SQL practice and data analysis projects using MySQL.
+
+### 5. Excel Reports
+
+Excel-based data analysis, reporting, and visualization projects.
 ### 3. Customer Data Analysis
 
 Customer data analysis project.
